@@ -1,5 +1,5 @@
 import random
-from minheap import MinHeap as mh
+import heapq as mh
 import gridworld as gw
 import time
 
